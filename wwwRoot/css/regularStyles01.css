@@ -9,7 +9,7 @@
 /*  Red Cross Red: rgb(237,27,46)   */
 
 	
-*/
+
 
 /* font styles  */
 html {
@@ -64,7 +64,7 @@ body {
 }
 /* refine main body div for general appearance */
     body > div {
-        border: 2px dotted green
+        border: 2px dotted green;
         min-height: 28rem;
         margin: 0.625rem;        
 
@@ -236,7 +236,6 @@ textarea {
 
 .menuItem:hover .menuHide {
     display: block;
-
     font-size: 1.5rem;
     
 }

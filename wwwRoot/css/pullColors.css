@@ -23,9 +23,9 @@ body {
     background-color: rgb(200,250,200);
 }
 
-.menuItem:hover .hide {
-    color: rgb(155,125,50);
-}
+.menuItem:hover .menuHide {
+        color: rgb(155,125,50);
+    }
 
 
 /* select option colors */
